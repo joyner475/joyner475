@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="left">
+  <h1>Hi there, I'm Isaac 👋</h1>
+  <p><strong> L1 IT Support | SOC Analyst Enthusiast | Nairobi, Kenya</strong></p>
+  
+  
+  <h3>🚀 About Me</h3>
+  <p>An IT graduate with profound interest in technology and a dedication to solving problems</p>
+  
+  <h3>🛠️ OBJECTIVES </h3>
+  <P> My journey in IT has led me to develop a passion for cybersecurity and am now eager to transition into this field. specifically aiming to join a Security Operation Center (SOC) as a tier 1 analyst</P>
+  ## SkillS
 
-<!--
-**joyner475/joyner475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Playbook development                          |SOAR EDR Lab|
+| Telemetry analysis                            |SOAR EDR Lab|
+| Automated containment                         |SOAR EDR Lab|
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/LimaCharlie-121212?style=for-the-badge&logo=limacharlie&logoColor=00C853" />
+    <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=slack&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+   
+</div>
+  <h3>Connect with me</h3>
+<a href="https://www.linkedin.com/in/isaac-kiua" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</div>
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+## Projects
+- SOAR EDR Lab
