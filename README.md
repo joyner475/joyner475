@@ -35,9 +35,6 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   
 ## Projects
 <a href="https://github.com/joyner475/SOAR-EDR-PROJECT">SOAR EDR Lab </a>
