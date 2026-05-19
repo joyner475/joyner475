@@ -19,17 +19,12 @@
 
 ## Tools
 
-### Cloud
 <div>
     <img src="https://img.shields.io/badge/LimaCharlie-121212?style=for-the-badge&logo=limacharlie&logoColor=00C853" />
-    <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=slack&logoColor=white" />
+    <br> <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=slack&logoColor=white" />
+    <br> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-   
-</div>
   <h3>Connect with me</h3>
 <a href="https://www.linkedin.com/in/isaac-kiua" target="_blank>" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />
